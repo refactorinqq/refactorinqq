@@ -12,10 +12,10 @@ Now, a little more about myself.
 <h3 align="left">Connect with me:</h3>
 
 <li>
-- 📫 My email is **refactoring@aetherium.club**
+📫 My email is **refactoring@aetherium.club**
 </li>
 <li>
-- 📫 My discord is 'refactoring.'  
+📫 My discord is 'refactoring.'  
 
 </li>
 <p align="left">
