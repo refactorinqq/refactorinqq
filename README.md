@@ -12,12 +12,11 @@ Now, a little more about myself.
 <h3 align="left">Connect with me:</h3>
 
 <li>
-  <ul>
 - 📫 My email is **refactoring@aetherium.club**
-  </ul>
-  <ul>
+</li>
+<li>
 - 📫 My discord is 'refactoring.'  
-  </ul>
+
 </li>
 <p align="left">
 </p>
