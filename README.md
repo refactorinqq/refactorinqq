@@ -10,8 +10,15 @@ Now, a little more about myself.
 - 👯 CEO at [Aetherium Development](https://aetherium.club)
 
 <h3 align="left">Connect with me:</h3>
+
+<li>
+  <ul>
 - 📫 My email is **refactoring@aetherium.club**
-- 📫 My discord is 'refactoring.'
+  </ul>
+  <ul>
+- 📫 My discord is 'refactoring.'  
+  </ul>
+</li>
 <p align="left">
 </p>
 
